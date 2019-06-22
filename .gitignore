@@ -4,3 +4,5 @@
 *.pdf
 .DS_Store
 
+# ignore following directories
+/.ipynb_checkpoints/
