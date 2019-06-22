@@ -1,4 +1,6 @@
 # ignore all these files
+*.ddl
+*.exe
 *.pdf
 .DS_Store
 
